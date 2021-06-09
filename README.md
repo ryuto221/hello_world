@@ -11,3 +11,17 @@ Repositório para aula de **git** e **github**
 
 ## Criar versão de arquivos modificados/incluidos/
 deletados
+
+Comando para o git monitorar os arquivos excluídos,
+adicionados ou modificados para serem versionados. 
+
+```git 
+git add . 
+``` 
+
+Comando para criar a versão dos arquivos, **a mensagem 
+entre aspas deve representar o que foi feito!**
+
+```git 
+git commit -m "uma mensagem sobre o que foi realizado"
+``` 
