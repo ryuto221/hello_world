@@ -25,3 +25,8 @@ entre aspas deve representar o que foi feito!**
 ```git 
 git commit -m "uma mensagem sobre o que foi realizado"
 ``` 
+
+Comando para enviar a versão criada para o github
+```git 
+git push origin main 
+``` 
