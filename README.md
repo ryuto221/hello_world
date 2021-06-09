@@ -9,4 +9,5 @@ Repositório para aula de **git** e **github**
 * Aprender a enviar as modificações para o github;
 * Aprender a baixar as modificações.
 
-## Criar versão de arquivos modificados/incluidos/deletados
+## Criar versão de arquivos modificados/incluidos/
+deletados
